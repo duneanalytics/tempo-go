@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "TypeScript client for Go Tempo fee payer server",
   "type": "module",
+  "packageManager": "pnpm@10.29.2",
   "scripts": {
     "start": "tsx client.ts",
     "check": "tsc --noEmit"
